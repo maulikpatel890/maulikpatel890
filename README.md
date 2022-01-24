@@ -1,7 +1,7 @@
 # Automation and Functional QA Evangelist
 
 ## <em>I am Maulikkumar Patel</em>,
-an ISTQB certified QA professional with 10+ years of expertise in Software testing, which includes automation testing of cloud-based products, responsive web applications and Android & iOS mobile applications. I have expertises in designing robust Automation Test framework, Performance test plans and performance engineering
+An ISTQB certified QA professional with 10+ years of expertise in Software testing, which includes automation testing of cloud-based products, responsive web applications and Android & iOS mobile applications. I have expertises in designing robust Automation Test framework, Performance test plans and performance engineering
 
 ## <em>Me</em> in Community
 <a href="https://eliminatormp.medium.com/automate-file-upload-test-case-to-aws-s3-storage-using-restassured-c18e718eaf42">Automate File Upload Test case to AWS S3 storage using RestAssured</a>
