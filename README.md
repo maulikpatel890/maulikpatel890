@@ -45,31 +45,31 @@ An ISTQB certified QA professional with 10+ years of expertise in Software testi
     <th>Defect and Testcase Management</th>
   </tr>
   <tr>
-    <td>Selenium Web Driver</td>
+    <td>Selenium Web Driver (Java)</td>
     <td>Jmeter</td>
-    <td>RestAssured</td>
+    <td>RestAssured (Java)</td>
     <td>Jenkins</td>
     <td>JIRA</td>
   </tr>
   <tr>
-    <td>Appiumt</td>
+    <td>Appium</td>
     <td>HP Load Runner</td>
     <td>Postman</td>
     <td>AWS</td>
     <td>Testrail</td>
   </tr>
   <tr>
-    <td>Protractor</td>
+    <td>BDD Cucumber</td>
     <td>App Dynamics</td>
     <td>Jmeter</td>
     <td>Azure Devops</td>
     <td>HP QC/ALM</td>
   </tr>
    <tr>
-    <td>TestCafe</td>
+    <td>Protractor - javascript</td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>GitHub Actions</td>
     <td>MS TFS</td>
   </tr>
   <tr>
@@ -77,6 +77,27 @@ An ISTQB certified QA professional with 10+ years of expertise in Software testi
     <td></td>
     <td></td>
     <td></td>
-    <td>GIT</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TestCafe - Typescript</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>git</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Github & Gitlab</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
