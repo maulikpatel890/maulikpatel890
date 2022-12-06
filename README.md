@@ -19,6 +19,7 @@ An ISTQB certified QA professional with 10+ years of expertise in Software testi
   <li>Developed Automated Test Suite using <strong>TestProject.io</strong> tool.</li>
   <li>Hands-on Functional testing experience on Responsive Web applications, Android and iOS Mobile Apps.</li>
   <li>Automation testing for Android and iOS Mobile applications using Appium + Page Factory Design Patterns (POM).</li>
+  <li>Setup CI/CD pipeline to run automated tests as per schedule and on demand using GitHub Actions and Azure Devops.</li>
   <li>Backend functional testing (RestAPI testing) using Postman.</li>
   <li>Experience with JMeter tool for <strong>Performance engineering</strong> and API Functional Testing.</li>
   <li>Functional Testing experience on Angular, .NET, Java and Mainframe based Applications and Mobile Applications.</li>
