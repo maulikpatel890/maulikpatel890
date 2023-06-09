@@ -1,7 +1,7 @@
 # Automation and Functional QA Evangelist
 
 ## <em>I am Maulikkumar Patel</em>,
-An ISTQB certified QA professional with 12+ years of expertise in Software testing. My Primary skills includes designing fully functional autoamted test suite for cloud-based products (web applications), responsive web applications and Android & iOS mobile applications. It also extends to desigining robust Performance test plans and performance engineering. Being a versatile QA, I am profient in using various testing techniques during functional and automation testing cycles. 
+An ISTQB certified QA professional with 12+ years of experience in Software testing.  My Primary skills include designing fully functional automated test suite for cloud-based products (web applications), responsive web applications and Android & iOS mobile applications. It also extends to designing robust Performance test plans and performance engineering. Being a versatile QA, I am proficient in using various testing techniques during functional and automation testing cycles.
 
 ## <em>Me</em> in Community
 <a href="https://eliminatormp.medium.com/automate-file-upload-test-case-to-aws-s3-storage-using-restassured-c18e718eaf42">Automate File Upload Test case to AWS S3 storage using RestAssured</a>
@@ -17,12 +17,12 @@ An ISTQB certified QA professional with 12+ years of expertise in Software testi
 ### <em>Myself</em>
 
 <ul>
-  <li>is having rich experience in designing and developing automation frameworks using <strong>Selenium Web driver</strong> and <strong>BDD Cucumber with Page Factory Design Patterns (POM)</strong> for web apps tests automation, e2e test framework using <strong>Protractor</strong>, <strong>TestCafe</strong> and <strong>Playwright</strong> for Angular web applications, <strong>Appium for native and hybrid mobile apps</strong>, <strong>API automation using Rest Assured</strong>.</li>
+  <li>I have extensive experience in designing and developing automation frameworks using <strong>Selenium Web driver</strong> and <strong>BDD Cucumber with Page Factory Design Patterns (POM)</strong> for web apps test automation. I have also designed e2e test frameworks using <strong>Protractor</strong>, <strong>TestCafe</strong> and <strong>Playwright</strong> for new gen web applications, <strong>Appium for native, hybrid and flutter mobile apps</strong>. Additionally, I have rich experience of <strong>API automation using Rest Assured</strong>.</li>
   <li>Developed Automated Test Suite using <strong>TestProject.io</strong> tool.</li>
-  <li>Self architectured E2E test suite using new gen tools (e.g. Playwright).</li>
+  <li>Self architecture an E2E test suite using new gen tools (e.g. Playwright).</li>
   <li>Hands-on Functional testing experience on Responsive Web applications, Android and iOS Mobile Apps.</li>
   <li>Automation testing for Android and iOS Mobile applications using Appium + Page Factory Design Patterns (POM).</li>
-  <li>Setup CI/CD pipeline to run automated tests as per schedule and on demand using GitHub Actions and Azure Devops.</li>
+  <li>Setup CI/CD pipeline to run automated tests on demand or as per schedule using GitHub Actions and Azure Devops.</li>
   <li>Backend functional testing (RestAPI testing) using Postman.</li>
   <li>Experience with JMeter tool for <strong>Performance engineering</strong> and API Functional Testing.</li>
   <li>Functional Testing experience on Node.js, React, ReactNative, Angular, .NET, Java and Mainframe based Web and Desktop Applications and Mobile Applications.</li>
