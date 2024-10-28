@@ -10,7 +10,7 @@ An ISTQB certified QA professional with 12+ years of experience in Software test
 
 <a href="https://github.com/maulikpatel890/UI_Automation_BDD_POM_Framework">UI_Automation_BDD_POM_Framework</a>
 
-<a href="https://github.com/maulikpatel890/playwright">E2E_Tests_Playwright</a>
+<a href="https://github.com/maulikpatel890/playwright-cucumber-typescript">E2E_Tests_Playwright</a>
 
 <a href="https://www.embeddedcomputing.com/technology/debug-and-test/jmeter-a-preferred-tool-for-performance-testing">JMeter: A preferred tool for performance testing</a>
 
